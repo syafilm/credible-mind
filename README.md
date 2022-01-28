@@ -4,9 +4,9 @@ Our mission is to help everyone optimize their mental health, emotional wellbein
 
 ## General Instructions
 
-- Fork this repo
+- Clone this repo
 - Start `Coding!`
-- Push your solution to your forked repo and we will check it
+- Push your solution to your github account and give us access so we can check your solution
 
 ## Installation
 
@@ -31,6 +31,7 @@ to launch web client http://localhost:3000
 ### Send Email to developers@crediblemind.com
 
 ```developers@crediblemind.com
+
 ```
 
 ## Frontend test requirement
